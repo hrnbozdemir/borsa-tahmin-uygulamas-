@@ -1,0 +1,239 @@
+A Tipi Yatırım Fonu
+Acente
+Akreditif
+Alım Satım Opsiyonu
+Alım Satıma Aracılık
+Alış (Bid)
+Analitik Bilanço
+Anonim Şirket
+Anüite
+Apel İşlemi
+Ara Kazanç Ticareti
+Aracı Kuruluş
+Aracılık
+Aracılık Yüklenimi
+Arbitraj
+Ayı Piyasası
+Ayı Tuzağı
+Açık Piyasa İşlemleri (APİ)
+Açılımı
+Açığa Satış
+Ağırlıklı Ortalama Fiyat
+BIST 100
+BIST 100 Endeksi
+BIST 30
+BIST Pazar Değişikliği
+Bakiyeyi Yüklenim
+Banka Bonolar
+Banka Bonosu ve Tahvili
+Basit Faiz
+Basit Ortalama
+Baz Fiyat
+Baz Puan
+Bağlı Ortaklık
+Başlangıç Sermayesi
+Bedelli Sermaye Artırımı
+Bedelsiz Sermaye Artırımı
+Benchmark (Ölçüt)
+Beta Katsayısı
+Bileşik Faiz
+Birikmiş Faiz
+Birincil Piyasalar
+Blok Satış
+Bono
+Borsa Eksperleri
+Borsa Emirleri
+Borsa Fiyatı
+Borsa Payı
+Borsa İstanbul (BİST)
+Borçları Ödeyememezlik Riski
+Boğa Piyasası
+Boğa Tuzağı
+Broker
+CDS
+Cari Açık
+Cari Faiz Oranı
+Cari Kur
+Ciro
+Dar Mükellef
+Deflatör
+Defter Değeri
+Delist
+Devlet İç Borçlanma Senetleri (DİBS)
+Devre Kırıcılar
+Dezenflasyon
+Değerleme
+Değişken Faizli İhraçlar
+Doji
+Dolaylı Vergi
+Dolaylı ve Dolaysız Vergi
+Duran Varlık
+Dışarıda Yerleşik Kişi
+Efektif
+Egzotik Opsiyonlar
+Eksik İstihdam
+Elektronik Menkul Kıymet Transferi (EMKT)
+Enflasyon Endeksli Tahvil
+Enflasyon Telafisi
+Enflasyon Vergisi
+Enflasyona Endeksli Tahvil
+Etkin Piyasa
+Euro Dolarlar
+Eurotahvil
+FOMO
+Faiz
+Faktoring
+Federal Fon Oranları
+Fesih
+Finansal Kiralama
+Finansman Bonosu
+Fiyat Aralığı
+Fiyat Endeksleri
+Fiyat Kotasyonu Vermek
+Fiyat Önceliği
+Forex
+Forfaiting
+Forward İşlemleri
+Futures Piyasaları
+Gayrimenkul Yatırım Ortaklığı
+Gelir Ortaklığı Senetleri
+Gelir Tablosu
+Genel Finansal Ortaklıkları
+Giffen Paradoksu
+Gösterge Faizi
+Gözaltı Pazarı
+Günlük İşlem
+Halka Arza Aracılık
+Halka Açık Anonim Ortaklık
+Halka Açıklık Oranı
+Hazine Bonosu
+Hedging
+Hesaben Saklama
+Hisse Geri Alımı
+Hizmetler Endeksi
+Kaldıraç Oranı
+Kaldıraçlı İşlem
+Kamuyu Aydınlatma Platformu (KAP)
+Kapanış Fiyatı
+Katılma İntifa Senedi
+Kaydi Takas
+Kayıtlı Sermaye
+Kesin Alış
+Kesin Satış
+Konkordato
+Konsolide
+Konvertibilite
+Kotasyon
+Kredi Arzı Daralması
+Kredi Risk Primi
+Kredili Menkul Kıymet İşlemleri
+Kullanım Fiyatı
+Kuponlu İhraçlar
+Kupür
+Kur Riski
+Kurtaj
+Küsurat Emir
+LIBID (London Interbank Bid Rate)
+LIBOR (London Interbank Offered Rate)
+Likidite
+Likidite Riski
+Likidite Senetleri
+Limit Fiyatlı Emirler
+Lot
+Maksimum Lot
+Manipülasyon
+Marjin İşlem
+Marjinal Maliyet
+Menkul Kıymet
+Menkul Kıymet Borsaları
+Menkul Kıymet Ödünç İşlemleri
+Merkez Bankası Bağımsızlığı
+Mevduat
+Nama Yazılı Hisse Senetleri
+Net Aktif Değeri
+Nominal Değer
+Normal Emir
+Oligopol Piyasa
+Opsiyon Primi
+Opsiyon Sözleşmesi
+Parasal Aktarım Mekanizması
+Parite
+Piyasa
+Piyasa Emri
+Piyasa Fiyatı
+Piyasa Yapıcı
+Portföy
+Portföy Yöneticiliği
+Reeskont
+Regülasyon
+Repo
+Revalüasyon
+Rezerv Para
+Risk Sermayesi Yatırım Ortaklığı
+SPK
+Sabit Kur Rejimi
+Saklama Kuruluşu
+Scalping
+Seans
+Spekülasyon
+Stagflasyon
+Swap
+Sübvansiyon
+Sınai Endeks
+Tahvil
+Takas
+Tavan Fiyatı
+Temel Analiz
+Teminat
+Ters Repo
+Tröst
+Türev Piyasası
+Uluslararası Pazar
+Uluslararası Ödemeler Bankası
+Uyuşmazlık Komitesi
+Uzun Pozisyon (Long Position)
+Vade Değeri
+Vadeli İşlemler Piyasası
+Varant
+Varlığa Dayalı Menkul Kıymet
+Virman İşlemi
+Volatilite (Oynaklık)
+VİOP
+YTD
+Yabancı Yatırım Fonu
+Yatırım Ortaklıkları
+Yatırımcı
+Yeni Hisse Pazarı
+Yİ-ÜFE ve TÜFE
+Zaman Önceliği
+h Üstü Piyasalar
+nin Açılımı
+r Payı
+r-Zarar Ortaklığı Belgesi (KOB)
+Çapa
+Çapraz Kur
+Çapraz İşlem
+Çekirdek Enflasyon
+Çok Fiyat-Sürekli Müzayede Yöntemi
+Çıkarılmış Sermaye
+Ödenmiş Sermaye
+Ölçek Ekonomisi
+Özel Emir
+Özel Limit Fiyatlı Emir
+Özel Sektör Tahvilleri
+Üye Temsilcisi
+İflas
+İhale
+İhraç
+İhraççı
+İkame Mal ve Tamamlayıcı Mal
+İkincil Piyasalar
+İlave Kotasyon
+İlk Kotasyon
+İntifa Senetleri
+İrtibat Bürosu
+İtfa
+İzahname
+İşlem Birimi
+İşlem Hacmi
+İşlem Miktarı
